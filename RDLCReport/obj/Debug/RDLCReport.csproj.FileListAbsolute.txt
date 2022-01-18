@@ -65,3 +65,5 @@ E:\TSD\RDLCReport\RDLCReport\RDLCReport\obj\Debug\RDLCReport.csproj.CoreCompileI
 E:\TSD\RDLCReport\RDLCReport\RDLCReport\obj\Debug\RDLCReport.csproj.CopyComplete
 E:\TSD\RDLCReport\RDLCReport\RDLCReport\obj\Debug\RDLCReport.dll
 E:\TSD\RDLCReport\RDLCReport\RDLCReport\obj\Debug\RDLCReport.pdb
+E:\TSD\RDLCReport\RDLCReport\RDLCReport\obj\Debug\RdlCompile.cache
+E:\TSD\RDLCReport\RDLCReport\RDLCReport\obj\Debug\RdlCompile.compiled

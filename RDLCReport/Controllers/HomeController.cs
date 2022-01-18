@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RDLCReport.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +9,14 @@ namespace RDLCReport.Controllers
 {
     public class HomeController : Controller
     {
+
+        private MainContext ctx = new MainContext();
         public ActionResult Index()
         {
             return View();
         }
+
+
 
         public ActionResult About()
         {
